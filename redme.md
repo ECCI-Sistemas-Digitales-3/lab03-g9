@@ -42,3 +42,4 @@ Resumen del flujo
 El programa combina lectura de hardware, procesamiento de datos y visualización interactiva en un bucle continuo. Está diseñado para ser eficiente, guardando solo los datos necesarios y manejando errores o interrupciones de manera elegante. Su estructura modular facilita modificaciones, como ajustar intervalos o añadir más métricas de monitoreo.
 
 
+![Diagrama de flujo](tempe.png)
