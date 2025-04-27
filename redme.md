@@ -1,4 +1,4 @@
-Se explica cada proseso realizo en el codigo
+Se explica cada proceso realizo en el codigo
 
 
 Importaciones
