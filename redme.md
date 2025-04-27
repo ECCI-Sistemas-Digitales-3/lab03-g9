@@ -37,9 +37,7 @@ Bloque principal
 
 Verifica si el script se ejecuta directamente (no como módulo) y, en ese caso, crea una instancia de MonitorTemperaturaRPI e inicia el monitoreo llamando a ejecutar(). Este bloque garantiza que el código solo se ejecute cuando es invocado directamente, facilitando su integración en otros proyectos si fuera necesario.
 
-Resumen del flujo
-
-El programa combina lectura de hardware, procesamiento de datos y visualización interactiva en un bucle continuo. Está diseñado para ser eficiente, guardando solo los datos necesarios y manejando errores o interrupciones de manera elegante. Su estructura modular facilita modificaciones, como ajustar intervalos o añadir más métricas de monitoreo.
+presentamos el diagrama de flujo
 
 
 ![Diagrama de flujo](tempe.png)
